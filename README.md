@@ -199,7 +199,7 @@ Pastikan untuk menggunakan nama kolom yang tepat seperti di atas.
 
 ## Dukungan
 
-- Telegram: https://t.me/kangujang08
+- Telegram: https://t.me/inihansal
 
 ## Disclaimer
 
