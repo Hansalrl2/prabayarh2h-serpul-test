@@ -54,7 +54,7 @@ _Pastikan Google Chrome terinstal di komputer Anda. Jika belum, unduh dan instal
 
 ### 5. Mendapatkan Script
 Untuk mendapatkan script terbaru, Anda bisa mengunduhnya dari repository GitHub berikut:
-https://github.com/k4ngujang/bootprabayarh2h-serpul/blob/main/prabayarh2h.py
+https://github.com/Hansalrl2/prabayarh2h-serpul-test/tree/main
 
 1. Buka link di atas menggunakan browser Anda.
 2. Klik tombol "Raw" di bagian atas konten script.
